@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "sensor_board_firmware", "sensor_board_firmware\sensor_board_firmware.cproj", "{47F78A03-1186-4924-BBE1-E545EFE59173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F78A03-1186-4924-BBE1-E545EFE59173}.Debug|AVR.ActiveCfg = Debug|AVR
+		{47F78A03-1186-4924-BBE1-E545EFE59173}.Debug|AVR.Build.0 = Debug|AVR
+		{47F78A03-1186-4924-BBE1-E545EFE59173}.Release|AVR.ActiveCfg = Release|AVR
+		{47F78A03-1186-4924-BBE1-E545EFE59173}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
