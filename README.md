@@ -14,8 +14,8 @@ Modules to be developed:
     (? IR Stuff)
     (? Camera)
 - Luminosity Sensor
-- Humidity Sensor 
-- Gas Detector
+- Humidity Sensdor 
+- (?)Gas Detector
 - Communication Protocol
     (? z-wave)
     (? ZigBee)
